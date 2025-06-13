@@ -1,5 +1,5 @@
-pandas
-numpy
-scikit-learn
-streamlit
-joblib
+streamlit          # necesario para la app
+joblib             # carga del modelo
+scikit-learn==1.6.1
+pandas==2.2.2
+numpy==2.0.2
